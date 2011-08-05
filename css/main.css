@@ -1,0 +1,13 @@
+/* Main.css
+ * This file will hold all of the non-boilerplate styles. This file is built for the Cookbook by Jim Munro.
+ */
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+	font-size:24px;
+	background-color:#ccc;
+	text-align:center;
+	-moz-border-radius:24px;
+	line-height:2em;
+}
